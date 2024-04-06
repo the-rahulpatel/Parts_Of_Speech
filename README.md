@@ -4,7 +4,7 @@ This is a simple text-based python program that utilises Claude's free API to id
 
 # Usage
 
-The user is asked to write a sentence in the CLI, however some context has been given already prior to user's input. The model then returns a strucutred block of text with each part of speech in the brackets placed beside each word.
+The user is asked to write a sentence in the CLI, however some context is added to maximise performance of the model and enhance accuracy of the answers. The model then returns a strucutred block of text with each part of speech in the brackets placed beside each word.
 
 # What I learnt
 I have learnt the following things:
