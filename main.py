@@ -8,11 +8,11 @@ root = Tk()
 root.title("PoS AI")
 root.geometry("700x500")
 root.resizable(0,0)
-welcome_text = Label(root,text='Parts Of Speech',font=("Arial",25)).pack(pady=50)
+welcome_text = Label(root,text='Parts Of Speech',font=("Arial",25)).place(x=240,y=70)
 
 user = StringVar()
-user_input = Entry(root,textvariable=user,bd=2)
-user_input.pack(pady=100)
+user_input = Entry(root,width=50,textvariable=user,bd=2)
+user_input.place(height=50,x=200,y=130)
 labels = []
 def submit():
     use = user.get()
@@ -41,7 +41,7 @@ def submit():
     
     # Label(root,text=message.content[0].text).pack(pady=20)
 b = Button(root,text="Press",width=10,command=submit)
-b.pack()
+b.place(x=305,y=200)
 
 
 
