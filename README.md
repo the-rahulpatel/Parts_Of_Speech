@@ -8,7 +8,11 @@ The user is asked to write a sentence in the CLI, however some context is added 
 
 # What I learnt
 I have learnt to integrate system variables in python through 'import os', to undestand the importance of virtual environments, to secure my API keys when deploying this online, and to parse JSON in python. 
- 
+
+# Recent releases
+V1.1: text-based version
+v1.2: GUI version
+
 
 # Contribution
 I accept contributions. 
