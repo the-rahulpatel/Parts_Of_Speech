@@ -2,7 +2,6 @@ from tkinter import *
 import anthropic
 import os
 
-print('this is the master branch')
 
 root = Tk()
 root.title("PoS AI")
@@ -42,8 +41,6 @@ def submit():
     # Label(root,text=message.content[0].text).pack(pady=20)
 b = Button(root,text="Press",width=10,command=submit)
 b.place(x=305,y=200)
-
-
 
 # message = client.messages.create(
     # model="claude-3-opus-20240229",

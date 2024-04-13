@@ -13,7 +13,6 @@ I have learnt to integrate system variables in python through 'import os', to un
 V1.1: text-based version
 v1.2: GUI version
 
-
 # Contribution
 I accept contributions. 
 
