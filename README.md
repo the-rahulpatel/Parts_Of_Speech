@@ -12,3 +12,6 @@ I have learnt to integrate system variables in python through 'import os', to un
 
 # Contribution
 I accept contributions. 
+
+# Latest Update
+I have ran out of the free credits for Claude AI, however I have reached out to the sales team in an attempt to get additional free credits. 
